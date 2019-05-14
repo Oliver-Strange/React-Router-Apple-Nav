@@ -27,7 +27,7 @@ display: flex;
 flex-direction: row nowrap;
 justify-content: space-between;
 align-items: center;
-width: 100%;
+width: 60%;
 height: 50px;
 margin: 0 auto;
 background-color: rgba(45,45,45,0.98);
@@ -44,6 +44,6 @@ a:last-of-type {
 const StyledNavLink = styled(NavLink)`
     text-decoration: none;
     color: white;
-
+    font-family: 'Roboto', sans-serif;
     
 `

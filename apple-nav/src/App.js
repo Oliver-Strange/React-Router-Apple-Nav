@@ -25,6 +25,7 @@ class App extends Component {
 const StyledApp = styled.div`
   width: 100%;
   margin: 0;
+  
 `
 
 
